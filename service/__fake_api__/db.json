@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 18,
+      "nome": "jose",
+      "email": "jose@gmail.com.br",
+      "nivel_acesso": "Colaborador",
+      "data_entrada": "08/03/2023"
+    }
+  ]
+}
